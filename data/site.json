@@ -1,0 +1,45 @@
+{
+  "serverName": "UNO RP",
+  "subtitle": "المدينة الرسمية للرول بلاي",
+  "description": "عِش تجربة واقعية في عالم مفتوح مليء بالتحديات والإثارة. اختر مسارك، كن من القانون أو خارجه. لكن تذكّر: كل فعل له عواقب.",
+  "discordInvite": "https://discord.gg/unn",
+  "primaryButton": "تسجيل الدخول بالدسكورد",
+  "discordButton": "سيرفر الدسكورد",
+  "storeButton": "المتجر",
+  "features": [
+    {
+      "title": "مجتمع فعال",
+      "text": "مجتمع كبير وفعال من اللاعبين والإداريين."
+    },
+    {
+      "title": "أنظمة متطورة",
+      "text": "أنظمة فريدة ومطورة لتقديم تجربة أفضل."
+    },
+    {
+      "title": "متجر متكامل",
+      "text": "دفع إلكتروني وتسليم تلقائي للرتب."
+    },
+    {
+      "title": "عدالة ونظام",
+      "text": "بيئة لعب نظيفة ومنظمة للجميع."
+    }
+  ],
+  "teamMode": "manual",
+  "team": [
+    {
+      "role": "Owner 👑",
+      "name": "bu hmd ",
+      "avatar": "/assets/buhmd.png"
+    },
+    {
+      "role": "Developer ⚙️",
+      "name": "faisal",
+      "avatar": "/assets/faisal.png"
+    },
+    {
+      "role": "Developer ⚙️",
+      "name": "Sultan",
+      "avatar": "/assets/sultan.png"
+    }
+  ]
+}

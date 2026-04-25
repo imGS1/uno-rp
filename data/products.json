@@ -1,0 +1,241 @@
+[
+  {
+    "id": "silver",
+    "name": "SILVER",
+    "category": "vip",
+    "price": 40,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_SILVER_ROLE",
+    "features": [
+      "20 ألف",
+      "راتب شهري 2 ألف",
+      "سكنات حصرية",
+      "سيارات حصرية",
+      "خصم 25% على المخالفات"
+    ],
+    "image": "/images/silver.png"
+  },
+  {
+    "id": "gold",
+    "name": "GOLD",
+    "category": "vip",
+    "price": 80,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_GOLD_ROLE",
+    "features": [
+      "30 ألف",
+      "راتب شهري 3 آلاف",
+      "سكنات حصرية",
+      "سيارات حصرية",
+      "خصم 40% على المخالفات"
+    ],
+    "image": "/images/gold.png"
+  },
+  {
+    "id": "diamond",
+    "name": "DIAMOND",
+    "category": "vip",
+    "price": 100,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_DIAMOND_ROLE",
+    "features": [
+      "40 ألف",
+      "راتب شهري 4 آلاف",
+      "سيارات حصرية",
+      "سكنات حصرية",
+      "خصم 60% على المخالفات"
+    ],
+    "image": "/images/diamond.png"
+  },
+  {
+    "id": "titanium",
+    "name": "TITANIUM",
+    "category": "vip",
+    "price": 120,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_TITANIUM_ROLE",
+    "features": [
+      "50 ألف",
+      "راتب شهري 5 آلاف",
+      "أسلحة وسيارات وطيارات وقارب",
+      "خصم 85% على المخالفات"
+    ],
+    "image": "/images/titanium.png"
+  },
+  {
+    "id": "boss",
+    "name": "BOSS",
+    "category": "vip",
+    "price": 500,
+    "currency": "SAR",
+    "roleEnv": "PRODUCT_BOSS_ROLE",
+    "features": [
+      "3 حزم من اختيارك",
+      "منيو إدارة عليا",
+      "صلاحيات إدارة عليا",
+      "رتبة مميزة داخل اللعبة والديسكورد",
+      "ID ثنائي"
+    ],
+    "image": "/images/boss.png"
+  },
+  {
+    "id": "batman",
+    "name": "BATMAN",
+    "category": "characters",
+    "price": 130,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_BATMAN_ROLE",
+    "features": [
+      "15 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 3",
+      "سيارات ومدرعات وطيارة",
+      "أسلحة ومنظار حراري"
+    ],
+    "image": "/images/batman.png"
+  },
+  {
+    "id": "catwoman",
+    "name": "CATWOMAN",
+    "category": "characters",
+    "price": 125,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_CATWOMAN_ROLE",
+    "features": [
+      "17 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 1",
+      "سيارات وأسلحة خاصة",
+      "ركض سريع وسوبر جمب"
+    ],
+    "image": "/images/catwoman.png"
+  },
+  {
+    "id": "hitman",
+    "name": "HITMAN",
+    "category": "characters",
+    "price": 170,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_HITMAN_ROLE",
+    "features": [
+      "18 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 2",
+      "تعقب وسرقة لبس",
+      "أسلحة ومنظار حراري"
+    ],
+    "image": "/images/hitman.png"
+  },
+  {
+    "id": "joker",
+    "name": "JOKER",
+    "category": "characters",
+    "price": 150,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_JOKER_ROLE",
+    "features": [
+      "20 مليون",
+      "راتب شهري 35 ألف",
+      "Skin 2",
+      "اختفاء ودروع",
+      "سيارات ومدرعة وطيارة"
+    ],
+    "image": "/images/joker.png"
+  },
+  {
+    "id": "spiderman",
+    "name": "SPIDERMAN",
+    "category": "characters",
+    "price": 135,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_SPIDERMAN_ROLE",
+    "features": [
+      "15 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 6",
+      "سيارات وأسلحة خاصة",
+      "ركض سريع وسوبر جمب"
+    ],
+    "image": "/images/spiderman.png"
+  },
+  {
+    "id": "superman",
+    "name": "SUPERMAN",
+    "category": "characters",
+    "price": 110,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_SUPERMAN_ROLE",
+    "features": [
+      "12 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 1",
+      "سيارات وأسلحة خاصة",
+      "ركض سريع وسوبر جمب"
+    ],
+    "image": "/images/superman.png"
+  },
+  {
+    "id": "flash",
+    "name": "THE FLASH",
+    "category": "characters",
+    "price": 85,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_FLASH_ROLE",
+    "features": [
+      "10 مليون",
+      "راتب شهري 25 ألف",
+      "Skin 1",
+      "سيارات وأسلحة خاصة",
+      "ركض سريع"
+    ],
+    "image": "/images/flash.png"
+  },
+  {
+    "id": "inner-menu",
+    "name": "INNER MENU",
+    "category": "menus",
+    "price": 300,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_INNER_MENU_ROLE",
+    "features": [
+      "ركض سريع وقفز عالي",
+      "تنظيف اللاعب",
+      "إنشاء شخصيات",
+      "تعديل وحفظ سيارات وأسلحة",
+      "10 مليون داخل اللعبة"
+    ],
+    "image": "/images/inner-menu.png"
+  },
+  {
+    "id": "clothes-menu",
+    "name": "CLOTHES MENU",
+    "category": "menus",
+    "price": 70,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_CLOTHES_MENU_ROLE",
+    "features": [
+      "تعديل كامل للشخصية",
+      "ملابس مميزة",
+      "وشم خاص بالمنيو",
+      "5 مليون داخل اللعبة"
+    ],
+    "image": "/images/clothes-menu.png"
+  },
+
+  {
+    "id": "id-name",
+    "name": "ID NAME",
+    "category": "id",
+    "price": 45,
+    "currency": "USD",
+    "roleEnv": "PRODUCT_ID_NAME_ROLE",
+    "features": [
+      "اختيار اسم عربي أو إنجليزي",
+      "اختيار لون للاسم",
+      "إضافة إيموجي أو صورة",
+      "تغيير اسم فقط 20$",
+      "تغيير ID كامل 80$"
+    ],
+    "image": "/images/id-name.png"
+  }
+]
